@@ -7,6 +7,7 @@ A complete Cocos2d-X game, programmed in C++, good support for iPhone
 
 In this game, you need to control 3 bubbles that represent for 3 kinds of characters: a tank, an attacker and a healer.
 
+
 The tank is good at defence, his skill is to attract the monster's attention. So the player should control him to attract the monster 
 from chasing others. 
 
